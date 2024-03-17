@@ -1,0 +1,287 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Serein's Blog</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2024-03-17T14:20:50+08:00</updated>
+  <author>
+    <name>Serein</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="zh-CN"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator>
+  <rights> © 2024 Serein </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>设计大赛</title>
+    <link href="http://localhost:4000/posts/%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B/" rel="alternate" type="text/html" title="设计大赛" />
+    <published>2024-02-17T22:59:00+08:00</published>
+  
+    <updated>2024-03-17T13:36:28+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B/</id>
+    <content src="http://localhost:4000/posts/%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B/" />
+    <author>
+      <name>Serein</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      视频介绍链接：点击访问
+
+  需求分析
+
+
+1.1.开发目的
+
+我们在日常生活中经常会填写一些表单，但现有的常用工具如金山表单、腾讯文档等有一些缺点，功能并不完善。例如：我们发现目前表单收集都在群聊发送，然而面对具有组织架构的企业或学校在收集信息时，需要上级逐层下发信息到下级，下级还需要收集信息逐层汇总到上级，期间无法实时监控数据收集进度，面对这些问题开发了我们的项目
+
+1.2.主要功能
+
+我们在实现现有收集工具的功能的基础上添加了新的功能，添加了组织架构系统，通过发布任务收集信息，实现从表单制作到任务发布到数据收集，数据可视化与统计，最后导出数据一条龙服务，让使用者更加方便。
+
+我们产品主要是利用表单收集信息，但利用表单与组织架构进行创新融合，弥补原有表单收集工具不足。
+
+
+  让制作表单更自由：
+
+
+表单制作有丰富的控件，其中还包含富文本等高级控件，支持js，css的高级编辑功能...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>数学建模</title>
+    <link href="http://localhost:4000/posts/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/" rel="alternate" type="text/html" title="数学建模" />
+    <published>2024-01-17T22:59:00+08:00</published>
+  
+    <updated>2024-03-17T13:36:28+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/</id>
+    <content src="http://localhost:4000/posts/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1/" />
+    <author>
+      <name>Serein</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>基于哈夫曼树压缩—数据结构设计</title>
+    <link href="http://localhost:4000/posts/%E5%9F%BA%E4%BA%8E%E5%93%88%E5%A4%AB%E6%9B%BC%E6%A0%91%E5%8E%8B%E7%BC%A9-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1/" rel="alternate" type="text/html" title="基于哈夫曼树压缩—数据结构设计" />
+    <published>2023-06-25T15:11:00+08:00</published>
+  
+    <updated>2024-03-17T13:36:28+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E5%9F%BA%E4%BA%8E%E5%93%88%E5%A4%AB%E6%9B%BC%E6%A0%91%E5%8E%8B%E7%BC%A9-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1/</id>
+    <content src="http://localhost:4000/posts/%E5%9F%BA%E4%BA%8E%E5%93%88%E5%A4%AB%E6%9B%BC%E6%A0%91%E5%8E%8B%E7%BC%A9-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1/" />
+    <author>
+      <name>Serein</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      基于哈夫曼树压缩
+
+1 设计目标
+
+从文件中读取一篇英文短文（有标题和至少两段文字，单词个数不少于500），根据短文中每个字符出现频率（字符区分大小写），构造哈夫曼树并对短文进行压缩（哈夫曼编码），先输出每个字符的哈夫曼编码，及编码后的短文（以文件形式存储），再对编码后的短文进行译码（存储到另外一个文件中）。 注意：对短文进行编码，只需用每个字符的哈夫曼编码（01代码串）替换原字符即可；译码时，将01代码串翻译为原来的字符。
+
+2 课题分析与设计
+
+2.1 课题分析
+
+（1）统计要压缩的文件中各字符出现的次数，利用数据结构中的小堆来构建Huffman树，每次在堆顶选出两个出现次数较小的字符先进行构建，将它们相加的结果又放进堆里面，直到堆里面的数据被取完，这样字符出现次数多的离Huffman树的根节点就比较近，字符出现次数少的离Huffman树的根节点就比较远。
+
+（2）根据构建好的H...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>c语言程序设计-万年历</title>
+    <link href="http://localhost:4000/posts/c%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-%E4%B8%87%E5%B9%B4%E5%8E%86/" rel="alternate" type="text/html" title="c语言程序设计-万年历" />
+    <published>2023-06-25T15:02:00+08:00</published>
+  
+    <updated>2023-06-25T15:27:39+08:00</updated>
+  
+    <id>http://localhost:4000/posts/c%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-%E4%B8%87%E5%B9%B4%E5%8E%86/</id>
+    <content src="http://localhost:4000/posts/c%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1-%E4%B8%87%E5%B9%B4%E5%8E%86/" />
+    <author>
+      <name>Serein</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      万年历
+
+分析设计
+（1）根据输入的年份，在屏幕上输出该年的日历。
+
+（2）根据输入的年月信息，在屏幕上输出该月的日历。
+
+（3）根据输入的年月日信息，计算距今天还有多少天，星期几，是否是节日。
+
+（4）输出年历时，以月份和星期做表头。
+
+（5）系统以菜单方式工作。
+
+（6）优化用户界面，使其更加具有粘合度。
+
+需求分析
+
+程序的用途：此程序适用于所有人，为用户提供了查询日历，计算日期时间的功能，解决了查询日期不方便的问题。程序要处理的数据有用户输入的数据，闰年的计算，和节日的数据，用户输入数据要求要准确并且要设定一定的范围值，防止数据过大。
+
+
+
+
+
+
+
+
+
+#include &amp;lt;stdio.h&amp;gt;
+#include &amp;lt;math.h&amp;gt;
+#include &amp;lt;string.h&amp;gt;
+#include "time.h" 
+int nowyear(){ //获取...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>绕过校园网问题</title>
+    <link href="http://localhost:4000/posts/%E7%BB%95%E8%BF%87%E6%A0%A1%E5%9B%AD%E7%BD%91%E9%97%AE%E9%A2%98/" rel="alternate" type="text/html" title="绕过校园网问题" />
+    <published>2023-06-14T14:36:00+08:00</published>
+  
+    <updated>2023-06-14T14:36:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E7%BB%95%E8%BF%87%E6%A0%A1%E5%9B%AD%E7%BD%91%E9%97%AE%E9%A2%98/</id>
+    <content src="http://localhost:4000/posts/%E7%BB%95%E8%BF%87%E6%A0%A1%E5%9B%AD%E7%BD%91%E9%97%AE%E9%A2%98/" />
+    <author>
+      <name>master</name>
+    </author>
+
+  
+    
+    <category term="心得" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      前言
+校园网真是个神奇的东西，超高的网费带来的还是极差的体验，很多学校的校园网不仅设有仅仅 1~2 台登录设备限制，其客户端还各种千方百计阻拦你开热点，实在是令人痛不欲生。
+
+本 up 坐标广东某学校，目前的校园网新由电信代理，使用的客户端是广东天翼校园，是今年才刚刚换装全新的使用的，具有网页客户端双重验证，且同时在线设备数仅为 1 台，极其令人反胃，而且速度感人，晚上还断网，简直了。
+
+目前大部分所谓说可以过校园网的软件都是已经失效的，甚至已经变成广告流氓程序（比如猎豹 wifi 之类的），大家可以试试，但要做好防毒措施。
+
+在如此严峻的情况下，我还是给大家总结了几种至少在我这里可以使用的开热点的方法，希望能给各位饱受校园网垄断的广大苦逼学生党们一点思路。
+
+虚拟机万能法
+虚拟机 + 外置无线网卡的组合，基本上是可以通杀所有网络限制的，哪怕是某些需要进行严格网络审计的内网，这种方法...
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
