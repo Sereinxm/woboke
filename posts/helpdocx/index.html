@@ -1866,7 +1866,7 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 
 <h2 id="video"><span class="me-2">Video</span><a href="#video" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 
-<iframe class="embed-video youtube lazyload" src="https://www.youtube.com/embed/Balreaj8Yqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe class="embed-video youtube lazyload" src="//player.bilibili.com/player.html?aid=&amp;bvid=BV1so4y1m7U5&amp;cid=&amp;page=1&amp;high_quality=0&amp;danmaku=0" title="youtube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="972" height="589"></iframe>
 
 <h2 id="reverse-footnote"><span class="me-2">Reverse Footnote</span><a href="#reverse-footnote" class="anchor text-muted"><i class="fas fa-hashtag"></i></a></h2>
 
@@ -2518,6 +2518,18 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
   
 
   
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
     
 
 
@@ -2569,6 +2581,57 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
         
         
         <div class="col">
+          <a href="/posts/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/" class="card post-preview h-100">
+            <div class="card-body">
+              <!--
+  Date format snippet
+  See: ${JS_ROOT}/utils/locale-dateime.js
+-->
+
+
+
+
+
+<em
+  class="small"
+  data-ts="1711981800"
+  data-df="YYYY/MM/DD"
+  
+>
+  2024/04/01
+</em>
+
+              <h4 class="pt-0 my-2" data-toc-skip>项目总结</h4>
+              <div class="text-muted small">
+                <p>
+                  
+
+
+
+
+
+                  介绍：帮助大家找到志同道合的伙伴，移动端 H5 网页
+
+功能
+
+用户对用户使用标签的分类，标签搜索；实现组队功能，创建和加入队伍，以及邀请他人加入队伍；推荐用户，使用相似度计算算法
+
+技术选型
+
+Spring Boot优势
+
+
+  内嵌式web容器：Spring boot内置了常见的web容器，你可以直接将你的应用程序打包成Jar文件，无需外部的web服务器。
+  自动配置：SPringBo...
+                </p>
+              </div>
+            </div>
+          </a>
+        </div>
+      
+        
+        
+        <div class="col">
           <a href="/posts/%E8%AE%BE%E8%AE%A1%E5%A4%A7%E8%B5%9B/" class="card post-preview h-100">
             <div class="card-body">
               <!--
@@ -2600,16 +2663,15 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 
                   视频介绍链接：点击访问
 
+{% include embed/youtube.html aid=’347225930’ cid=’878983937’%}{: width=”972” height=”589” }
+
+
   需求分析
 
 
 1.1.开发目的
 
-我们在日常生活中经常会填写一些表单，但现有的常用工具如金山表单、腾讯文档等有一些缺点，功能并不完善。例如：我们发现目前表单收集都在群聊发送，然而面对具有组织架构的企业或学校在收集信息时，需要上级逐层下发信息到下级，下级还需要收集信息逐层汇总到上级，期间无法实时监控数据收集进度，面对这些问题开发了我们的项目
-
-1.2.主要功能
-
-...
+我们在日常生活中经常会填写一些表单，但现有的常用工具如金山表单、腾讯文档等有一些缺点，功能并不完善。例如：我们发现目前表单收集都在群聊发送，...
                 </p>
               </div>
             </div>
@@ -2649,6 +2711,7 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 
 
                   
+  如果图片无法加载，请见腾讯文档：点我
 
 
 
@@ -2679,49 +2742,9 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 
 
 
-                </p>
-              </div>
-            </div>
-          </a>
-        </div>
-      
-        
-        
-        <div class="col">
-          <a href="/posts/%E5%9F%BA%E4%BA%8E%E5%93%88%E5%A4%AB%E6%9B%BC%E6%A0%91%E5%8E%8B%E7%BC%A9-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1/" class="card post-preview h-100">
-            <div class="card-body">
-              <!--
-  Date format snippet
-  See: ${JS_ROOT}/utils/locale-dateime.js
--->
 
 
 
-
-
-<em
-  class="small"
-  data-ts="1687677060"
-  data-df="YYYY/MM/DD"
-  
->
-  2023/06/25
-</em>
-
-              <h4 class="pt-0 my-2" data-toc-skip>基于哈夫曼树压缩—数据结构设计</h4>
-              <div class="text-muted small">
-                <p>
-                  
-
-
-
-
-
-                  基于哈夫曼树压缩
-
-1 设计目标
-
-从文件中读取一篇英文短文（有标题和至少两段文字，单词个数不少于500），根据短文中每个字符出现频率（字符区分大小写），构造哈夫曼树并对短文进行压缩（哈夫曼编码），先输出每个字符的哈夫曼编码，及编码后的短文（以文件形式存储），再对编码后的短文进行译码（存储到另外一个文件中）。 注意：对短文进行编码，只需用每个字符的哈夫曼编码（01代码串）替换原字符即可；译码...
                 </p>
               </div>
             </div>

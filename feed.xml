@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>Serein's Blog</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-03-17T14:20:50+08:00</updated>
+  <updated>2024-04-01T22:42:32+08:00</updated>
   <author>
     <name>Serein</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,55 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>项目总结</title>
+    <link href="http://localhost:4000/posts/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/" rel="alternate" type="text/html" title="项目总结" />
+    <published>2024-04-01T22:30:00+08:00</published>
+  
+    <updated>2024-04-01T22:30:00+08:00</updated>
+  
+    <id>http://localhost:4000/posts/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/</id>
+    <content src="http://localhost:4000/posts/%E9%A1%B9%E7%9B%AE%E6%80%BB%E7%BB%93/" />
+    <author>
+      <name>Serein</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      介绍：帮助大家找到志同道合的伙伴，移动端 H5 网页
+
+功能
+
+用户对用户使用标签的分类，标签搜索；实现组队功能，创建和加入队伍，以及邀请他人加入队伍；推荐用户，使用相似度计算算法
+
+技术选型
+
+Spring Boot优势
+
+
+  内嵌式web容器：Spring boot内置了常见的web容器，你可以直接将你的应用程序打包成Jar文件，无需外部的web服务器。
+  自动配置：SPringBoot项目依赖自动配置应用程序的组件，大大减少了手动配置的工作，提高了开发效率
+
+
+MyBatis-plus优势
+
+MyBatis-Plus 是 MyBatis 的增强版框架(就像魂斗罗兄弟一样)，它对 MyBatis 进行了 二次封装，只做增强不做改变。通过提供一系列的 API方法和代码生成器，使重复的 CRUD(创建、读取、更新、删除)操作更加简单，无需手动编写 SOL 语句，从而 大幅提高开发...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -46,6 +95,9 @@
 
       视频介绍链接：点击访问
 
+
+
+
   需求分析
 
 
@@ -63,7 +115,7 @@
   让制作表单更自由：
 
 
-表单制作有丰富的控件，其中还包含富文本等高级控件，支持js，css的高级编辑功能...
+表单制作有丰富的控件，其中还包含富文本等高级控件，支持js，css的高级编...
     </summary>
   
 
@@ -96,6 +148,10 @@
 
 
       
+  如果图片无法加载，请见腾讯文档：点我
+
+
+
 
 
 
@@ -233,50 +289,6 @@
 #include &amp;lt;string.h&amp;gt;
 #include "time.h" 
 int nowyear(){ //获取...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>绕过校园网问题</title>
-    <link href="http://localhost:4000/posts/%E7%BB%95%E8%BF%87%E6%A0%A1%E5%9B%AD%E7%BD%91%E9%97%AE%E9%A2%98/" rel="alternate" type="text/html" title="绕过校园网问题" />
-    <published>2023-06-14T14:36:00+08:00</published>
-  
-    <updated>2023-06-14T14:36:00+08:00</updated>
-  
-    <id>http://localhost:4000/posts/%E7%BB%95%E8%BF%87%E6%A0%A1%E5%9B%AD%E7%BD%91%E9%97%AE%E9%A2%98/</id>
-    <content src="http://localhost:4000/posts/%E7%BB%95%E8%BF%87%E6%A0%A1%E5%9B%AD%E7%BD%91%E9%97%AE%E9%A2%98/" />
-    <author>
-      <name>master</name>
-    </author>
-
-  
-    
-    <category term="心得" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      前言
-校园网真是个神奇的东西，超高的网费带来的还是极差的体验，很多学校的校园网不仅设有仅仅 1~2 台登录设备限制，其客户端还各种千方百计阻拦你开热点，实在是令人痛不欲生。
-
-本 up 坐标广东某学校，目前的校园网新由电信代理，使用的客户端是广东天翼校园，是今年才刚刚换装全新的使用的，具有网页客户端双重验证，且同时在线设备数仅为 1 台，极其令人反胃，而且速度感人，晚上还断网，简直了。
-
-目前大部分所谓说可以过校园网的软件都是已经失效的，甚至已经变成广告流氓程序（比如猎豹 wifi 之类的），大家可以试试，但要做好防毒措施。
-
-在如此严峻的情况下，我还是给大家总结了几种至少在我这里可以使用的开热点的方法，希望能给各位饱受校园网垄断的广大苦逼学生党们一点思路。
-
-虚拟机万能法
-虚拟机 + 外置无线网卡的组合，基本上是可以通杀所有网络限制的，哪怕是某些需要进行严格网络审计的内网，这种方法...
     </summary>
   
 
